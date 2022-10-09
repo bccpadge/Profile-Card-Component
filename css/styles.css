@@ -100,7 +100,7 @@ body {
   background-color: var(--dark-cyan-color);
   display: grid;
   place-items: center;
-  background-image: url('/images/bg-pattern-top.svg'), url('/images/bg-pattern-bottom.svg');
+  background-image: url('../images/bg-pattern-top.svg'), url('../images/bg-pattern-bottom.svg');
   background-repeat: no-repeat;
   background-position: right 52vw bottom 35vh, left 48vw top 52vh;
 }
