@@ -29,8 +29,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/profile-card-component-using-css-grid-and-flexbox-chnOa5tt15)
-- Live Site URL: [Live Site](hhttps://bccpadge.github.io/Profile-Card-Component/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-using-css-grid-and-flexbox-chnOa5tt15)
+- Live Site URL: [Github Pages](https://bccpadge.github.io/Profile-Card-Component/)
 
 ## My process
 
